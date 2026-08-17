@@ -5,14 +5,10 @@ defined( 'ABSPATH' ) || exit;
 /**
  * Plugin Name: ElementsKit Pro
  * Description: The most advanced addons for Elementor with tons of widgets, layout pack and powerful custom controls.
- * Plugin URI: https://wpmet.com/plugin/elementskit
- * Author: Wpmet
+ * Author: mandeep
  * Version: 4.10.0
- * Author URI: https://wpmet.com/
  * Text Domain: elementskit
  * Domain Path: /languages
- * License:  GPLv3
- * License URI: https://www.gnu.org/licenses/gpl-3.0.txt
  * Elementskit is a powerful addon for Elementor page builder.
  * It has a tons of widgets to create any sites with an ease. It has some most unique
  * and powerful custom controls for elementor, such as "image picker", "ajax select", "widget area".
